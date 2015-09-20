@@ -6,6 +6,8 @@
     "start": "node_modules/react-native/packager/packager.sh"
   },
   "dependencies": {
+    "asyncstorage-down": "^1.0.0",
+    "levelup": "^1.2.1",
     "react-native": "^0.11.0"
   }
 }
